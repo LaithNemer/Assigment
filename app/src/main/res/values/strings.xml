@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ass</string>
+    <string-array name="subject">
+        <item>Math</item>
+        <item>Scince</item>
+        <item>Arabic</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="oparation">
+        <item>*</item>
+        <item>-</item>
+        <item>+</item>
+        <item>/</item>
+    </string-array>
+
+</resources>
